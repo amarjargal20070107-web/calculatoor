@@ -334,6 +334,7 @@
             btnBackspace.TabIndex = 27;
             btnBackspace.Text = "Backspace";
             btnBackspace.UseVisualStyleBackColor = false;
+            btnBackspace.Click += btnBackspace_Click;
             // 
             // btnCE
             // 
